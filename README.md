@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Riipen
+# Riipen Data Analysis
 Riipen is a Vancouver-based company that connects students, educators and employers to cooperate on projects. 
 
 More info about Riipen: https://riipen.com/
