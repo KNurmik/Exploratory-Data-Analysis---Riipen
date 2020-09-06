@@ -10,5 +10,7 @@ This analysis aims to answer the following questions:
 - Did this allow for more requests/connections between users? 
 - Does the 14 day expiry limit make sense?
 
+Source code and data are unavailable per the request of Riipen.
+
 # Contributors
 Copyright 2019. Karl Hendrik Nurmeots, Mark Vartolaş, Habiba Zaghloul, Iris Shtutman.
